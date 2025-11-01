@@ -8,7 +8,7 @@ This repository mirrors the complete Google Data Analytics Professional Certific
 
 - PNG (showcase):
 
-  ![Google Data Analytics Professional Certificate](./Google%20Data%20Analytics%20Professional%20Certificate%20-%20Courses%20SPMKZNCOOGD.png)
+  ![Google Data Analytics Professional Certificate](https://raw.githubusercontent.com/engomaressam/google-data-analytics-professional-certificate/main/Google%20Data%20Analytics%20Professional%20Certificate%20-%20Courses%20SPMKZNCOOGD.png)
 
 - PDF:
 
