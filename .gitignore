@@ -1,0 +1,16 @@
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Language caches
+__pycache__/
+*.pyc
